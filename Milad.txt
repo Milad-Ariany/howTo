@@ -5,6 +5,7 @@ You are going to finish your first week of working and look so excited. Would yo
 Hello. Yeap working in SAP in such a cool department and high level tasks was my goal and dream!
 
 ---- I am writing it in the Men Branch ----
-Specially this position is kind of challenging for me, since it highly demands programming skills.
+Specially this position is kind of challenging for me, since it highly demands programming skills. Yeap it is really cool and challenging!
 
 ---- Repository change ----
+--- is changed before pull ---
